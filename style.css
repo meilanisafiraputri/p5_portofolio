@@ -1,0 +1,57 @@
+body{
+    min-height: 3500px;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #f0b1cf67;
+}
+
+/* .rounded-circle {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 0 auto;
+  }
+
+  .rounded-circle img {
+    width: 100%;
+    height: auto;
+  } */
+
+  #pengalaman{
+    padding-top: 3rem;
+    background-color: #f0b1cf67;
+  }
+
+  .foto-samakan {
+    height: 100%; /* Atur tinggi gambar menjadi 100% */
+    width: 100%; /* Atur lebar gambar menjadi 100% */
+    object-fit: cover; /* Pastikan gambar mengisi ruang yang diberikan */
+  }
+
+  .foto-column {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#contact{
+  background-color: #f0b1cf67;
+}
+
+.contact-info {
+  font-size: 25px; /* Ukuran teks */
+  margin-bottom: 10px; /* Jarak antar baris */
+}
+
+.contact-info i {
+  font-size: 35px;
+  margin-right: 10px; /* Jarak antara ikon dan teks */
+}
+
+section{
+  padding-top: 4rem;
+}
+  
