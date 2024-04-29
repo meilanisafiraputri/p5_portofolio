@@ -37,11 +37,17 @@ body{
     object-fit: cover;
 }
 
-#contact{
+/* #contact{
+  background-color: #f0b1cf67;
+} */
+
+#keahlian{
   background-color: #f0b1cf67;
 }
 
 .contact-info {
+  display: flex;
+  align-items: center;
   font-size: 20px; /* Ukuran teks */
   margin-bottom: 10px; /* Jarak antar baris */
 }
